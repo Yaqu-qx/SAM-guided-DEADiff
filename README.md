@@ -127,5 +127,8 @@ bert_base_uncased_path = 'bert-base-uncased'
 python groundingdino_sam_pipline.py
 ```
 
+**RESULTS**
+![visual results](images/1766669771873.png)
 
-
+todo
+- [ ] 跑评分（定量实验）
