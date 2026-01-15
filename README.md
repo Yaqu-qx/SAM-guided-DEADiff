@@ -43,7 +43,7 @@ For detailed environment setup steps and usage instructions, see the `README.md`
 
 
 
-### groundingDINO+sam中关键文件说明
+### Key Document Description in groundingDINO+sam
 
 - **code**: Source code for Project 1
   - **Pytorch-UNET**: UNet project source code, corresponding to basic task
