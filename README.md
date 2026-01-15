@@ -3,8 +3,8 @@
 - ### Folder Description
 
   - SAM-guided DEADiff (experiment directory for SAM-guided DEADiff)
-    - DEADiff: the DEADiff project, including the pipeline files for the entire SAM-guided DEADiff project and the interface scripts
-    - groundingDINO+sam: the GroundingDINO-guided SAM semantic segmentation project
+    - DEADiff: the DEADiff project, including the pipeline files for the entire SAM-guided DEADiff project and the interface scripts （Modify from [DEADiff](https://github.com/bytedance/DEADiff)）
+    - [groundingDINO](https://github.com/IDEA-Research/GroundingDINO)+[sam](https://github.com/facebookresearch/segment-anything): the GroundingDINO-guided SAM semantic segmentation project
   - Overall project architecture:
 
 ![1767361036880](images/1767361036880.png)
