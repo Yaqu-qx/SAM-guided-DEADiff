@@ -7,7 +7,7 @@
     - groundingDINO+sam: the GroundingDINO-guided SAM semantic segmentation project
   - Overall project architecture:
 
-![1767361036880](C:\Users\Yaqu\AppData\Roaming\Typora\typora-user-images\1767361036880.png)
+![1767361036880](images/1767361036880.png)
 
 ### Key Files for SAM-guided DEADiff
 
