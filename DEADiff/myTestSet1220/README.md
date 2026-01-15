@@ -1,0 +1,6 @@
+- inputs_prompt_style_pairs.txt
+  - 格式：一行一组数据，每行从左到右为：内容图路径 风格图路径 deadiff提示词
+  - 可用于纯deadiff实验（提示词+风格图）或结合controlnet的实验（提示词+风格图+）
+- inputs_sam_pairs.txt
+  - 格式：一行一组数据，每行从左到右为：内容图路径 风格图路径 deadiff提示词/sam提示词
+  - 用于deadiff+sam实验

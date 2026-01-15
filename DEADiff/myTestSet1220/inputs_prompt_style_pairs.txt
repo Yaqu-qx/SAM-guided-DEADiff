@@ -1,0 +1,7 @@
+./myTestSet1220/content/C01.jpg ./myTestSet1220/style/S01.jpg A painting of a cat in the style of Starry Night, oil painting, intricate details, Van Gogh style
+./myTestSet1220/content/C03.jpg ./myTestSet1220/style/S02.jpg A futuristic building, cyberpunk style, neon lights, night city background, sci-fi architecture
+./myTestSet1220/content/C05.jpg ./myTestSet1220/style/S04.jpg A landscape with mountains and trees, watercolor painting style, soft artistic strokes
+./myTestSet1220/content/C04.jpg ./myTestSet1220/style/S03.jpg A pair of shoes made of fire, burning flames, magma texture, glowing, cinematic lighting
+./myTestSet1220/content/C06.jpg ./myTestSet1220/style/S01.jpg A masterpiece oil painting based on a sketch, Starry Night style, vivid colors
+./myTestSet1220/content/C01.jpg ./myTestSet1220/style/S03.jpg A dog made of fire, elemental creature
+./myTestSet1220/content/C02.jpg ./myTestSet1220/style/S05.jpg A woman in Ukiyo-e style, traditional Japanese art

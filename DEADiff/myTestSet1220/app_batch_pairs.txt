@@ -1,0 +1,4 @@
+- ./myTestSet1220/style/S01.jpg Real photo style, a woman in a white jumpsuit is walking on the street
+- ./myTestSet1220/style/S01.jpg A cartoon little boy in a jacket
+- ./myTestSet1220/style/S01.jpg Real photo style, a close-up shot of a sports shoe, with an abandoned construction project in the background. The sports shoe takes up half of the image size
+- ./myTestSet1220/style/S03.jpg Real photo style, a sports car is driving on the road

@@ -1,0 +1,33 @@
+myTestSet1220/sam-content/C06.jpg myTestSet1220/sam-style/S07.jpg best quality, extremely detailed / background
+myTestSet1220/sam-content/C06.jpg myTestSet1220/sam-style/S08.jpg best quality, extremely detailed / background
+myTestSet1220/sam-content/C06.jpg myTestSet1220/sam-style/S07.jpg best quality, extremely detailed / coat
+myTestSet1220/sam-content/C06.jpg myTestSet1220/sam-style/S07.jpg best quality, extremely detailed / hair
+myTestSet1220/sam-content/C06.jpg myTestSet1220/sam-style/S08.jpg best quality, extremely detailed / a boy
+myTestSet1220/sam-content/C07.jpg myTestSet1220/sam-style/S08.jpg best quality, extremely detailed / a dog
+myTestSet1220/sam-content/C07.jpg myTestSet1220/sam-style/S08.jpg best quality, extremely detailed / background
+myTestSet1220/sam-content/C08.jpg myTestSet1220/sam-style/S02.jpg best quality, extremely detailed / a tree
+myTestSet1220/sam-content/C08.jpg myTestSet1220/sam-style/S09.jpg best quality, extremely detailed / a tree
+myTestSet1220/sam-content/C08.jpg myTestSet1220/sam-style/S10.jpg best quality, extremely detailed / a tree
+myTestSet1220/sam-content/C08.jpg myTestSet1220/sam-style/S02.jpg best quality, extremely detailed / background
+myTestSet1220/sam-content/C01.jpg myTestSet1220/sam-style/S01.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C01.jpg myTestSet1220/sam-style/S02.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C01.jpg myTestSet1220/sam-style/S03.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C01.jpg myTestSet1220/sam-style/S04.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S01.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S02.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S03.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S04.jpg best quality, extremely detailed / white dress
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S01.jpg best quality, extremely detailed / hat
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S02.jpg best quality, extremely detailed / hat
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S03.jpg best quality, extremely detailed / hat
+myTestSet1220/sam-content/C02.jpg myTestSet1220/sam-style/S04.jpg best quality, extremely detailed / hat
+myTestSet1220/sam-content/C03.jpg myTestSet1220/sam-style/S07.jpg best quality, extremely detailed / sofa
+myTestSet1220/sam-content/C03.jpg myTestSet1220/sam-style/S05.jpg best quality, extremely detailed / ceiling
+myTestSet1220/sam-content/C03.jpg myTestSet1220/sam-style/S06.jpg best quality, extremely detailed / floor
+myTestSet1220/sam-content/C04.jpg myTestSet1220/sam-style/S07.jpg best quality, extremely detailed / sofa
+myTestSet1220/sam-content/C04.jpg myTestSet1220/sam-style/S06.jpg best quality, extremely detailed / floor
+myTestSet1220/sam-content/C04.jpg myTestSet1220/sam-style/S05.jpg best quality, extremely detailed / floor
+myTestSet1220/sam-content/C05.jpg myTestSet1220/sam-style/S07.jpg best quality, extremely detailed / a shoe
+myTestSet1220/sam-content/C05.jpg myTestSet1220/sam-style/S08.jpg best quality, extremely detailed / a shoe
+myTestSet1220/sam-content/C05.jpg myTestSet1220/sam-style/S09.jpg best quality, extremely detailed / a shoe
+
